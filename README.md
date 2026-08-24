@@ -1,30 +1,52 @@
-# Hi 👋, I'm Beef
+<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-### A passionate web developer, and product designer
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-theslimeguy&label=Profile views&color=0e75b6&style=flat" alt="im-theslimeguy" /> </p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/im-theslimeguy/im-theslimeguy/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/im-theslimeguy/im-theslimeguy/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-theslimeguy" alt="im-theslimeguy" /></a> </p>
+###
 
-- 🔭 I'm currently working on **an administrative software for my school, and a rust based Minecraft client**
+<br clear="both">
 
-- 🌱 I'm currently learning **Rust, Swift and Java**
+<img data-importer="snake" src="https://raw.githubusercontent.com/im-theslimeguy/im-theslimeguy/snake-output/snake.svg" alt="Snake animation" />
 
-- 💬 Ask me about **Product and UI/UX Design**
+###
 
-- ⚡ Fun fact **i like boyzz**
+<img data-importer="image" align="right" height="150" src="https://avatars.githubusercontent.com/u/218661920?v=4"  />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/im-theslimeguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="im-theslimeguy" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sketch" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a></p>
+<div data-importer="techs" align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="30" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" height="30" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge" height="30" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Stack Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge" height="30" alt="stackoverflow logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-theslimeguy&show_icons=true&locale=en&layout=compact" alt="im-theslimeguy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-theslimeguy&show_icons=true&locale=en" alt="im-theslimeguy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-theslimeguy&" alt="im-theslimeguy" /></p>
-
+###
